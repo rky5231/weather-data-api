@@ -1,7 +1,5 @@
 # Weather Data API
 
-![Weather Data API](https://github.com/rky5231/weather-data-api/raw/main/weather-data-api-screenshot.png)
-
 The Weather Data API project provides a RESTful API for accessing weather-related information. It retrieves weather forecasts, current weather conditions, and historical weather data for specified locations. This API serves as a useful tool for developers to integrate weather data into their applications.
 
 ## Features
